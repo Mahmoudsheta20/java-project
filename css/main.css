@@ -119,7 +119,7 @@ body {
 
 .landing_page {
     min-height: 100vh;
-    background-image: url(/imags/shuffle-01.jpg);
+    background-image: url(../imags/shuffle-01.jpg);
     background-size: cover;
     position: relative;
     transition: 2s;

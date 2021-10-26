@@ -102,6 +102,7 @@
 
  icon.onclick = function() {
      this.classList.toggle('fa-spin'), setting.classList.toggle('open')
+     console.log(icon)
  };
 
 
